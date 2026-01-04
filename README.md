@@ -18,7 +18,7 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 
 ### 📊 Featured Projects
 - 🚕 NYC Taxi TLC Analysis – Exploratory Data Analysis  
-- 🧠 Python Data Analysis – scripts and notebooks covering core concepts  
+- 🧠 Python Data Analysis – Scripts and notebooks covering core concepts  
 - 🏍️ AdventureWorks Cycles – Advanced SQL queries
 
 - Portfolio: https://datascienceportfol.io/kanayetashen
