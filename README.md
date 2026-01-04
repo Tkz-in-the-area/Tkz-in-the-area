@@ -1,10 +1,17 @@
 ## Hi, I'm Tashen Kanaye👋
 
-Aspiring Data Analyst / Data Scientist with a strong foundation in:
-- Python 🐍
-- SQL 
-- Data Cleaning, Wrangling & Analysis
-- Finding Insights
+Aspiring Data Analyst / Data Scientist passionate about turning raw data into meaningful insights. I enjoy solving analytical problems, building efficient workflows, and continuously expanding my technical skill set.
+
+🚀 Core Skills
+• 	🐍 Python Programming
+• 	🧮 SQL Querying & Database Work
+• 	🧹 Data Cleaning & Wrangling
+• 	📊 Exploratory Data Analysis (EDA)
+• 	🔍 Insight Generation & Storytelling
+• 	📈 Data Visualization
+• 	🧠 Analytical Thinking & Problem Solving
+• 	🗂️ Working with Large Datasets
+• 	🧪 Experimentation & Hypothesis Testing
 
 ### 🔧 Tech Stack
 Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Power BI
@@ -20,10 +27,10 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 - Google Data Analytics 
 - Google Data Analysis with Python 
 - Google Business Intelligence
+- Google Ai Essentials
 - Google Advanced Data Analytics [In-progress]
 - BI essentials for Finance Analysts - CFI 
 - Python for Data Science Ai & Development – IBM
-
 
 ### 📫 Contact
 - Email: kanayetashen@gmail.com
