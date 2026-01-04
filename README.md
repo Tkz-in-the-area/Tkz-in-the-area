@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi, I'm Tashen Kanaye👋
 
-<!--
-**Tkz-in-the-area/Tkz-in-the-area** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst / Data Scientist with a strong foundation in:
+- Python 🐍
+- SQL 
+- Data Cleaning, Wrangling & Analysis
+- Finding Insights
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Featured Projects
+- 🚕 NYC Taxi TLC Analysis – Exploratory Data Analysis  
+- 🧠 Python Data Analysis – scripts and notebooks covering core concepts  
+- 🏍️ AdventureWorks Cycles – Advanced SQL queries
+
+- Portfolio: https://datascienceportfol.io/kanayetashen
+
+### 📜 Certifications
+- Google Data Analytics 
+- Google Data Analysis with Python 
+- Google Business Intelligence
+- Google Advanced Data Analytics [In-progress]
+- BI essentials for Finance Analysts - CFI 
+- Python for Data Science Ai & Development – IBM
+
+
+### 📫 Contact
+- Email: kanayetashen@gmail.com
+
+
+
