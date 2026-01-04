@@ -1,6 +1,6 @@
 ## Hi, I'm Tashen Kanaye👋
 
-Aspiring Data Analyst / Data Scientist passionate about turning raw data into meaningful insights. I enjoy solving analytical problems, building efficient workflows, and continuously expanding my technical skill set.
+A Business Intelligence & Data Analyst passionate about turning raw data into meaningful insights. I enjoy solving analytical problems, building efficient workflows, and continuously expanding my technical skill set.
 
 ### 🚀 Core Skills
 - 	🐍 Python Programming
