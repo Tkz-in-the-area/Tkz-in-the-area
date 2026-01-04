@@ -2,16 +2,16 @@
 
 Aspiring Data Analyst / Data Scientist passionate about turning raw data into meaningful insights. I enjoy solving analytical problems, building efficient workflows, and continuously expanding my technical skill set.
 
-🚀 Core Skills
-• 	🐍 Python Programming
-• 	🧮 SQL Querying & Database Work
-• 	🧹 Data Cleaning & Wrangling
-• 	📊 Exploratory Data Analysis (EDA)
-• 	🔍 Insight Generation & Storytelling
-• 	📈 Data Visualization
-• 	🧠 Analytical Thinking & Problem Solving
-• 	🗂️ Working with Large Datasets
-• 	🧪 Experimentation & Hypothesis Testing
+### 🚀 Core Skills
+- 	🐍 Python Programming
+- 	🧮 SQL Querying & Database Work
+- 	🧹 Data Cleaning & Wrangling
+- 	📊 Exploratory Data Analysis (EDA)
+- 	🔍 Insight Generation & Storytelling
+- 	📈 Data Visualization
+- 	🧠 Analytical Thinking & Problem Solving
+- 	🗂️ Working with Large Datasets
+- 	🧪 Experimentation & Hypothesis Testing
 
 ### 🔧 Tech Stack
 Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Power BI
