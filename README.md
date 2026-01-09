@@ -32,6 +32,8 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 - Google Advanced Data Analytics [In-progress]
 - BI essentials for Finance Analysts - CFI 
 - Python for Data Science Ai & Development - IBM
+- Build AI Apps with No-Code Tools Specialization - Learn Quest [In-progress]
+- Data Science Essentials: Analysis, Statistics, and ML Specialization - <Packt> [In-progress]
 
 ### 📫 Contact
 - Email: kanayetashen@gmail.com
