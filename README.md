@@ -29,11 +29,11 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 - Google Data Analysis with Python 
 - Google Business Intelligence
 - Google Ai Essentials
-- Google Advanced Data Analytics [In-progress]
+- Google Advanced Data Analytics 
 - Google Cloud Data Analytics [In-progress]
 - BI essentials for Finance Analysts - CFI 
 - Python for Data Science Ai & Development - IBM
-- Build AI Apps with No-Code Tools Specialization - Learn Quest [In-progress]
+- Build AI Apps with No-Code Tools Specialization - Learn Quest 
 - Data Science Essentials: Analysis, Statistics, and ML Specialization - Packt [In-progress]
 
 ### 📫 Contact
