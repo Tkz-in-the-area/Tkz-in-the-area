@@ -36,6 +36,11 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 - Build AI Apps with No-Code Tools Specialization - Learn Quest 
 - Data Science Essentials: Analysis, Statistics, and ML Specialization - Packt [In-progress]
 
+### 🏅 Microsoft Certifications
+- 	Microsoft Certified: Azure Data Fundamentals (DP‑900)
+- 	Microsoft Certified: Power BI Data Analyst Associate (PL‑300) [In-progress]
+- 	Microsoft Certified: Azure AI Fundamentals (AI‑900) [In-progress]
+
 ### 📫 Contact
 - Email: kanayetashen@gmail.com
 
