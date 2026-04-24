@@ -1,6 +1,10 @@
 ## Hi, I'm Tashen Kanaye👋
 
-A Business Intelligence & Data Analyst passionate about turning raw data into meaningful insights. I enjoy solving analytical problems, building efficient workflows, and continuously expanding my technical skill set.
+I began my career in NDT (Non-Destructive Testing), where I learned to detect what others couldn’t see — microscopic flaws hidden in complex systems, early indicators of failure buried in noise. That work shaped how I think: trust patterns, question assumptions, and treat quality as non‑negotiable.
+
+That mindset is exactly what led me into data. For me, analytics is another form of inspection — validating processes, identifying outliers, ensuring integrity, and transforming raw signals into meaningful insight. The shift wasn’t a leap; it was a natural continuation.
+
+Today, I’m a Business Intelligence & Data Analyst who enjoys solving analytical problems, building efficient workflows, and turning data into decisions that matter.
 
 ### 🚀 Core Skills
 - 	🐍 Python Programming
