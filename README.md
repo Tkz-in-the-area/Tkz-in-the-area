@@ -43,7 +43,7 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 ### 🏅 Microsoft Certifications
 - 	Microsoft Certified: Azure Data Fundamentals (DP‑900) ✅
 - 	Microsoft Certified: Power BI Data Analyst Associate (PL‑300) ✅
-- 	Microsoft Certified: Azure AI Fundamentals (AI‑900) [In-progress]
+- 	Microsoft Certified: Azure AI Fundamentals (AI‑900) ✅
 - 	Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) [In-progress]
 
 ### 📫 Contact
