@@ -11,14 +11,17 @@ Today, I’m a Business Intelligence & Data Analyst who enjoys solving analytica
 - 	🧮 SQL Querying & Database Work
 - 	🧹 Data Cleaning & Wrangling
 - 	📊 Exploratory Data Analysis (EDA)
+- 	🏗️ Microsoft Fabric
 - 	🔍 Insight Generation & Storytelling
 - 	📈 Data Visualization
 - 	🧠 Analytical Thinking & Problem Solving
 - 	🗂️ Working with Large Datasets
 - 	🧪 Experimentation & Hypothesis Testing
+- 	⚙️ Data Engineering Foundations
+- 	☁️ Cloud & Modern Data Stack
 
 ### 🔧 Tech Stack
-Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Power BI
+Python | SQL | Pandas | NumPy | Matplotlib | Power BI | Microsoft Fabric | Lakehouse | Dataflows Gen2 | SQL Server | Azure | Delta Lake | Excel | Tableau
 
 ### 🗂️ Featured Projects
 - 🚕 NYC Taxi TLC Analysis – Exploratory Data Analysis  
@@ -28,7 +31,13 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 
 - Portfolio: https://datascienceportfol.io/kanayetashen
 
-### 📜 Certifications
+### 🏅 Microsoft Certifications
+- 	Microsoft Certified: Azure Data Fundamentals (DP‑900) ✅
+- 	Microsoft Certified: Power BI Data Analyst Associate (PL‑300) ✅
+- 	Microsoft Certified: Azure AI Fundamentals (AI‑900) ✅
+- 	Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) [In-progress]
+
+- 	### 📜 Certifications
 - Google Data Analytics 
 - Google Data Analysis with Python 
 - Google Business Intelligence
@@ -39,12 +48,6 @@ Python | SQL | Pandas | NumPy | Matplotlib | SQL Server | Tableau | Excel | Powe
 - Python for Data Science Ai & Development - IBM
 - Build AI Apps with No-Code Tools Specialization - Learn Quest 
 - Data Science Essentials: Analysis, Statistics, and ML Specialization - Packt [In-progress]
-
-### 🏅 Microsoft Certifications
-- 	Microsoft Certified: Azure Data Fundamentals (DP‑900) ✅
-- 	Microsoft Certified: Power BI Data Analyst Associate (PL‑300) ✅
-- 	Microsoft Certified: Azure AI Fundamentals (AI‑900) ✅
-- 	Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) [In-progress]
 
 ### 📫 Contact
 - Email: kanayetashen@gmail.com
