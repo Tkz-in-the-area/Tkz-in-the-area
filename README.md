@@ -4,7 +4,7 @@ I began my career in NDT (Non-Destructive Testing), where I learned to detect wh
 
 That mindset is exactly what led me into data. For me, analytics is another form of inspection — validating processes, identifying outliers, ensuring integrity, and transforming raw signals into meaningful insight. The shift wasn’t a leap; it was a natural continuation.
 
-Today, I’m a Business Intelligence & Data Analyst and BSc Informatics candidate, focused on building scalable data workflows, delivering clear insights, and applying modern tools like Microsoft Fabric to turn data into decisions that matter.
+Today, I’m a Business Intelligence & Data Analyst, BSc Informatics candidate, and 4× Microsoft Certified professional focused on building scalable data workflows, delivering clear insights, and applying modern tools like Microsoft Fabric to turn data into decisions that matter.
 
 ### 🚀 Core Skills
 🐍 Python Programming — automation, data pipelines, statistical analysis, and reusable analytics scripts
