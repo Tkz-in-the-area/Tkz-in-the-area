@@ -4,25 +4,35 @@ I began my career in NDT (Non-Destructive Testing), where I learned to detect wh
 
 That mindset is exactly what led me into data. For me, analytics is another form of inspection — validating processes, identifying outliers, ensuring integrity, and transforming raw signals into meaningful insight. The shift wasn’t a leap; it was a natural continuation.
 
-Today, I’m a Business Intelligence & Data Analyst who enjoys solving analytical problems, building efficient workflows, and turning data into decisions that matter.
+Today, I’m a Business Intelligence & Data Analyst and BSc Informatics candidate, focused on building scalable data workflows, delivering clear insights, and applying modern tools like Microsoft Fabric to turn data into decisions that matter.
 
 ### 🚀 Core Skills
-- 	🐍 Python Programming
-- 	🧮 SQL Querying & Database Work
-- 	🧹 Data Cleaning & Wrangling
-- 	📊 Exploratory Data Analysis (EDA)
-- 	🏗️ Microsoft Fabric
-- 	🔍 Insight Generation & Storytelling
-- 	📈 Data Visualization
-- 	🧠 Analytical Thinking & Problem Solving
-- 	🗂️ Working with Large Datasets
-- 	🧪 Experimentation & Hypothesis Testing
-- 	⚙️ Data Engineering Foundations
-- 	☁️ Cloud & Modern Data Stack
+🐍 Python Programming — automation, data pipelines, statistical analysis, and reusable analytics scripts
 
-### 🔧 Tech Stack
-Python | SQL | Pandas | NumPy | Matplotlib | Power BI | Microsoft Fabric | Lakehouse | Dataflows Gen2 | SQL Server | Azure | Delta Lake | Excel | Tableau
+🧮 SQL Querying & Database Work — optimized queries, schema design, joins, aggregations, and performance tuning
 
+🧹 Data Cleaning & Wrangling — transforming raw data using Python, SQL, Power Query, and Dataflows Gen2
+
+📊 Exploratory Data Analysis (EDA) — profiling datasets, uncovering trends, anomalies, and business‑driving insights
+
+🏗️ Microsoft Fabric — Lakehouse, Warehouse, Pipelines, Dataflows Gen2, OneLake, Delta tables, semantic modeling
+
+🔍 Insight Generation & Storytelling — translating analysis into clear, actionable narratives for stakeholders
+
+📈 Data Visualization — Power BI dashboards, DAX modeling, Python visual libraries, UX‑focused reporting
+
+🧠 Analytical Thinking & Problem Solving — structured reasoning, hypothesis‑driven analysis, decision support
+
+🗂️ Working with Large Datasets — scalable compute, vectorized operations, optimized SQL, Delta Lake
+
+🧪 Experimentation & Hypothesis Testing — statistical methods, A/B testing, validation techniques
+
+⚙️ Data Engineering Foundations — ETL/ELT, medallion architecture, incremental refresh, data quality checks
+
+☁️ Cloud & Modern Data Stack — Microsoft Fabric, Azure, Delta Lake, Git‑enabled analytics workflows
+
+### 🔧 Tech Stack 
+Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Power BI (DAX, M‑Query) • Microsoft Fabric (Lakehouse, Warehouse, Pipelines, Dataflows Gen2, OneLake, Delta Tables) • SQL Server • Azure Data Platform • Delta Lake • Git • Excel (Advanced) • Tableau
 ### 🗂️ Featured Projects
 - 🚕 NYC Taxi TLC Analysis – Exploratory Data Analysis  
 - 🧠 Python Data Analysis – Scripts and notebooks covering core concepts  
@@ -35,7 +45,9 @@ Python | SQL | Pandas | NumPy | Matplotlib | Power BI | Microsoft Fabric | Lakeh
 - 	Microsoft Certified: Azure Data Fundamentals (DP‑900) ✅
 - 	Microsoft Certified: Power BI Data Analyst Associate (PL‑300) ✅
 - 	Microsoft Certified: Azure AI Fundamentals (AI‑900) ✅
-- 	Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) [In-progress]
+- 	Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) ✅
+-   Microsoft Certified: Fabric Data Engineer Associate (DP-700) [In-progress]
+
 
 - 	### 📜 Certifications
 - Google Data Analytics 
