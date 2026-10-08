@@ -4,7 +4,7 @@ I began my career in NDT (Non-Destructive Testing), where I learned to detect wh
 
 That mindset is exactly what led me into data. For me, analytics is another form of inspection — validating processes, identifying outliers, ensuring integrity, and transforming raw signals into meaningful insight. The shift wasn’t a leap; it was a natural continuation.
 
-Today, I’m a Business Intelligence & Data Analyst, BSc Informatics candidate, and 4× Microsoft Certified professional focused on building scalable data workflows, delivering clear insights, and applying modern tools like Microsoft Fabric to turn data into decisions that matter.
+Today, I’m a Business Intelligence & Data Analyst, BSc Informatics candidate, and 5× Microsoft Certified professional focused on building scalable data workflows, delivering clear insights, and applying modern tools like Microsoft Fabric to turn data into decisions that matter.
 
 ### 🚀 Core Skills
 🐍 Python Programming — automation, data pipelines, statistical analysis, and reusable analytics scripts
@@ -46,7 +46,8 @@ Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Power BI (DAX
 - 	Microsoft Certified: Power BI Data Analyst Associate (PL‑300) ✅
 - 	Microsoft Certified: Azure AI Fundamentals (AI‑900) ✅
 - 	Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) ✅
--   Microsoft Certified: Fabric Data Engineer Associate (DP-700) [In-progress]
+-   Microsoft Certified: Fabric Data Engineer Associate (DP-700) ✅
+-   Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750) [In-progress]
 
 
 - 	### 📜 Certifications
